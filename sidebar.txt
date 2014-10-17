@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vum:home|Door43 (vum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vum|d43-vum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vum/archive/master.zip|d43-vum.zip]]
+
+**Recent Changes**
+{{changes>ns = vum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vum|Ethnologue data]]
+
